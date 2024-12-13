@@ -1,7 +1,0 @@
-streamlit
-torch
-torchvision
-opencv-python-headless
-numpy
-ultralytics
-python==3.8
