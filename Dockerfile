@@ -1,3 +1,4 @@
+
 # Start with a lightweight Python base image
 FROM python:3.9-slim
 
@@ -23,3 +24,4 @@ COPY . .
 
 # Command to run the app
 CMD ["streamlit", "run", "app.py"]
+
