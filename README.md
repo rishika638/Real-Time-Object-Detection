@@ -4,19 +4,29 @@ About the Project
 This project showcases a technically challenging and impactful web application for real-time object detection using state-of-the-art deep learning techniques. It enables users to upload images and identify objects within them, visualized with bounding boxes and labels, all through an intuitive web interface.
 
 Key Features
+
 Real-Time Object Detection: Powered by YOLOv5, a cutting-edge model known for speed and accuracy.
+
 User-Friendly Interface: Upload any image and get instant detection results.
+
 Deployed on Streamlit Cloud: Accessible via web, ensuring usability without any setup.
+
 Robust Accuracy: Detects objects with 95% precision across diverse datasets.
 
 How It Works
+
 Image Upload: The user uploads an image via the app.
+
 Preprocessing: The app resizes and processes the image using OpenCV and Pillow.
+
 Object Detection: The YOLOv5 model identifies objects and draws bounding boxes around them.
+
 Results Display: The annotated image is displayed along with detection details like object labels and confidence scores.
 
 Impact
+
 Enhanced Accessibility: Brought machine learning technology to non-technical users.
+
 Real-World Application: Can be extended for use cases like surveillance, retail analytics, and autonomous driving.
 Debugging Expertise: Solved complex deployment errors, including library dependency conflicts, making the app seamless for users.
 High Efficiency: Processes images at ~10 frames per second on local systems.
