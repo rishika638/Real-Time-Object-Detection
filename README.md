@@ -26,6 +26,7 @@ YOLOv5: Handles object detection with pre-trained weights (yolov5s.pt).
 Streamlit: Front-end for user interaction and result visualization.
 OpenCV & Pillow: For image preprocessing and manipulation.
 
+
 Technology Stack
 Machine Learning: YOLOv5, PyTorch.
 Computer Vision: OpenCV, Pillow.
